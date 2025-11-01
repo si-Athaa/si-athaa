@@ -9,9 +9,9 @@ Sometimes lost in **code**, sometimes found in **logic**.
 ---
 
 ### 📊 My GitHub Statistics
-![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=654231)
+![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=654123)
 
 ---
 
 ### 🧠 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&layout=compact&theme=tokyonight&cache=123654)
