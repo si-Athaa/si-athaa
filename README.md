@@ -9,7 +9,7 @@ Sometimes lost in **code**, sometimes found in **logic**.
 ---
 
 ### 📊 My GitHub Statistics
-![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=12345)
+![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=654231)
 
 ---
 
