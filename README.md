@@ -15,3 +15,8 @@ Sometimes lost in **code**, sometimes found in **logic**.
 
 ### 🧠 My Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&layout=compact&theme=tokyonight&cache=123471)
+
+---
+
+### My trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=furkandereli)]
