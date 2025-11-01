@@ -1,6 +1,6 @@
 ## Welcome to my github
 
-Hi there, I'm Atha..
+Hi there, I'm Atha...
 
 “Just a **beginner** who types until something works.”
 Learning every bug, every fail, every line.
