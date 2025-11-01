@@ -18,7 +18,7 @@ Sometimes lost in **code**, sometimes found in **logic**.
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-athaa&" alt="si-athaa" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-athaa&cache=321456" alt="si-athaa" /></p> 
 
 ### 🏆 My trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa&cache=312435)
