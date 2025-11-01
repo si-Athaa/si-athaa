@@ -1,6 +1,7 @@
 ## Welcome to my github
 
 Hi there, I'm Atha...
+<img src="https://komarev.com/ghpvc/?username=si-athaa&&style=flat-square" align="center" />
 
 “Just a **beginner** who types until something works.”
 Learning every bug, every fail, every line.
