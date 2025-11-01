@@ -18,5 +18,5 @@ Sometimes lost in **code**, sometimes found in **logic**.
 
 ---
 
-### My trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa)
+### 🏆 My trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa&cache=312435)
