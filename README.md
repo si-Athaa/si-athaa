@@ -6,8 +6,9 @@ Hi there, I'm Atha...
 Learning every bug, every fail, every line.
 Sometimes lost in **code**, sometimes found in **logic**.
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 ---
-![Followers](https://img.shields.io/github/followers/si-athaa?style=social)
 <img src="https://komarev.com/ghpvc/?username=si-athaa&&style=flat-square" align="center" />
 
 ### 📊 My GitHub Statistics
