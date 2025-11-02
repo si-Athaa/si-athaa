@@ -15,7 +15,6 @@ Sometimes lost in **code**, sometimes found in **logic**.
 ---
 
 ### 🧠 My Programming Languages
-![si-athaa's Most used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&theme=tokyonight&cache=978466)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&layout=compact&theme=tokyonight&cache=123475)
 
 ---
