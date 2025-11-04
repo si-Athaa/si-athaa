@@ -7,7 +7,6 @@ Learning every bug, every fail, every line.
 Sometimes lost in **code**, sometimes found in **logic**.
 
 ---
-<img src="https://komarev.com/ghpvc/?username=si-athaa&&style=flat-square" align="center" />
 
 ### 📊 My GitHub Statistics
 ![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=623132)
