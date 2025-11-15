@@ -9,17 +9,17 @@ Sometimes lost in **code**, sometimes found in **logic**.
 ---
 
 ### 📊 My GitHub Statistics
-![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=612311236)
+![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=61223436)
 
 ---
 
 ### 🧠 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&layout=compact&theme=tokyonight&cache=12342235756)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=si-athaa&layout=compact&theme=tokyonight&cache=25823756)
 
 ---
 
 ### 🏆 My trophy
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-athaa&show_icons=true&theme=tokyonight&cache=31245212340" alt="si-athaa" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-athaa&show_icons=true&theme=tokyonight&cache=582340" alt="si-athaa" /></p>  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa&show_icons=true&theme=tokyonight&cache=3124576540)
+![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa&show_icons=true&theme=tokyonight&cache=9078450)
