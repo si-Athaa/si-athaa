@@ -9,12 +9,12 @@ Sometimes lost in **code**, sometimes found in **logic**.
 ---
 
 ### 📊 My GitHub Statistics
-![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=61223436)
+![Atha's GitHub stats](https://github-readme-stats.vercel.app/api?username=si-athaa&show_icons=true&theme=tokyonight&cache=612124)
 
 ---
 
 ### 🧠 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z6dev&layout=compact&theme=tokyonight&cache=25823756)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z6dev&layout=compact&theme=tokyonight&cache=258124)
 
 ---
 
