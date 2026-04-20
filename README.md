@@ -1,10 +1,12 @@
 ## Welcome to my github
 
-Hi there, I'm Atha...
+Hi there, I'm Atha... 
 
 “Just a **beginner** who types until something works.”
 Learning every bug, every fail, every line.
 Sometimes lost in **code**, sometimes found in **logic**.
+
+**This is my project with my team "https://2707811.playcode.io/"**
 
 ---
 
