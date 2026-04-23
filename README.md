@@ -24,4 +24,4 @@ Sometimes lost in **code**, sometimes found in **logic**.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=si-athaa&show_icons=true&theme=tokyonight&cache=582862" alt="si-athaa" /></p>  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa&show_icons=true&theme=tokyonight&cache=952967)
+![trophy](https://github-profile-trophy.vercel.app/?username=si-athaa&show_icons=true&theme=tokyonight&cache=952978)
